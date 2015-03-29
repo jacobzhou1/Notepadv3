@@ -1,0 +1,3 @@
+/Users/Keai/AndroidStudioProjects/Notepadv31/app/build/intermediates/classes/debug
+/Users/Keai/AndroidStudioProjects/Notepadv31/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.1.10-0be2e58ccf2b9f36ddc1449cab8068825eda8acc.jar
+/Users/Keai/AndroidStudioProjects/Notepadv31/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.1.10-b04080122cce91162f246d53c365e47cfc62c595.jar

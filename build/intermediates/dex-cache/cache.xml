@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Keai/AndroidStudioProjects/Notepadv31/app/libs/aws-android-sdk-core-2.1.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e745828ca64264810c80934270d72d574fd3154">
+        <dex dex="/Users/Keai/AndroidStudioProjects/Notepadv31/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.1.10-b04080122cce91162f246d53c365e47cfc62c595.jar" />
+    </item>
+    <item
+        jar="/Users/Keai/AndroidStudioProjects/Notepadv31/app/libs/aws-android-sdk-s3-2.1.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5399b33ac81823f6f09e4b6541fafef7c5013e39">
+        <dex dex="/Users/Keai/AndroidStudioProjects/Notepadv31/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.1.10-0be2e58ccf2b9f36ddc1449cab8068825eda8acc.jar" />
+    </item>
+
+</items>
